@@ -27,6 +27,10 @@ of the Qidi Plus4 3D printer.
 
 ### [Making Z-Offset Permanent](./content/making-z-offset-permanent)
 
+### [Enabling KAMP Purge Line](./content/kamp-purging)
+
+### [Enabling Screws_Tilt_Adjust](./content/Screws-Tilt-Adjust/)
+
 
 ## Orca Slicer Configuration
 
@@ -47,6 +51,23 @@ of the Qidi Plus4 3D printer.
 
 ### [Filter Exhaust Blocker](https://www.printables.com/model/1037302-qidi-plus-4-filter-exhaust-blocker)
 
+### [Rear Chamber Seal](https://www.printables.com/model/1040774-qidi-plus-4-rear-chamber-cover)
+
+### [HEPA/Activated Carbon filtration system](https://www.printables.com/model/1022271-qidi-plus-4-filtration-system)
+
+### [Exhaust adapter attachment (with CAD)](https://www.printables.com/model/1040218-qidi-plus-4-exhaust-adapter)
+
+### [Lid prop](https://www.printables.com/model/1039528-qidi-plus4-lid-prop)
+
+### [4 inch Duct extraction adapter](https://www.printables.com/model/1036212-qidi-plus-4-4-inch-duct)
+
+### [Hole blocking plate](https://www.printables.com/model/1039152-qidi-4-plus-ports-cover)
+
+### [Push In Place Door Sealing Strip](https://www.thingiverse.com/thing:6801577)
+
+### [Belt Tensioners](https://www.printables.com/model/1044712-qidi-plus4-belt-tensioners/files)
+
+### [WIP - A better chamber thermal sensor mounting position](https://www.thingiverse.com/thing:6802256)
 
 ## Additional Software
 
@@ -59,7 +80,7 @@ of the Qidi Plus4 3D printer.
 
 ### [Replacement hotend heatsink fan - GDSTime GDA30105F (EU Store)](https://www.hotend.eu/p/gdstime-axial-fan-sleeve-3010-24v)
 
-### [Replacement hotend heatsink fan - GDSTime GDA30105F (CN Store)](https://www.aliexpress.com/item/1005001769596081.html)
+### [Replacement hotend heatsink fan - GDSTime GDA30105F (CN Store)](https://www.aliexpress.com/item/1005002857100082.html)
 
 ### [Replacement 80 mm mainboard fan - Sunon MF80252V2 (US Store)](https://www.mouser.com/ProductDetail/Sunon/MF80252V2-1000U-A99?qs=EU6FO9ffTweuBOiBDgCHHA%3D%3D)
 
